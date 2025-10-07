@@ -1,5 +1,3 @@
-# Solar_Power_Generation
-
 # ☀️ Solar Power Generation Prediction
 
 This project uses environmental data to predict **solar power output** at a solar plant in Berkeley, CA. The dataset includes the following variables:
